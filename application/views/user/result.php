@@ -1,0 +1,2 @@
+<h2 class="control-label bolder blue" style="text-align:center;"><?php echo "Your Score : ".(int)$mark?></h2>
+<a style="text-align: center;" href="http://localhost/MidAtp/userController/index/<?php echo $this->session->userdata('userids');?>">Back To Dashboard</a> <br><br>

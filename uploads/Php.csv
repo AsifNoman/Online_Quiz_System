@@ -1,0 +1,8 @@
+question,option1,option2,option3,option4,answer
+Who is the father of PHP?,Rasmus Lerdorf,Willam Makepiece,Drek Kolkevi,List Barely,Rasmus Lerdorf
+A PHP script should start with ___ and end with __,< php >,< ? php >,< ? ? >,< ?php ? >,< ?php ? >
+Which version of PHP introduced Try/catch Exception?,PHP 4,PHP 5,PHP 5.3,PHP 6,PHP 5
+Which of the below symbols is a newline character?,\r,\n,/n,/r,\n
+If $a = 12 what will be returned when ($a == 12) ? 5 : 1 is executed?,12,5,1,Error,5
+Which of the below statements is equivalent to $add += $add ?,$add = $add,$add = $add +$add,$add = $add + 1,$add = $add + $add + 1,$add = $add +$add
+Which statement will output $x on the screen?,echo “\$x”;,echo “/$x”;,echo “$$x”;,echo “$x;,echo “\$x”;

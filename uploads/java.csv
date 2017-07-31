@@ -1,0 +1,10 @@
+question,option1,option2,option3,option4,answer,negative_mark
+What is the size of long variable?,8 bit,16 bit,32 bit,64 bit,64 bit,1
+What is an Interface?,Interface is an concrete class., Interface is an abstract class.,An interface is a collection of abstract methods.,"None of the above.
+
+",Interface is an concrete class.,1
+"In which case, a program is expected to recover?",If an error occurs., If an exception occurs.,Both of the above.,"None of the above.
+
+",If an exception occurs.,1
+What is correct syntax for main method of a java class?,public static int main(String[] args),public int main(String[] args),public static void main(String[] args),None of the above.,public static void main(String[] args),1
+Which of the following is true about String?,String is immutable.,String is a data type.,String is mutable.,None of the above,String is immutable.,
