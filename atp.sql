@@ -34,7 +34,7 @@ CREATE TABLE `tbl_marks` (
   `time` varchar(255) NOT NULL,
   `test_name` varchar(255) NOT NULL,
   `intTime` int(255) NOT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET=latin1; 
 
 --
 -- Dumping data for table `tbl_marks`
